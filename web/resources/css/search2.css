@@ -1,0 +1,14 @@
+table{
+    border:1;
+    background:#dfe6e9
+}
+table th{
+    border:1;
+}
+table th{
+  text-transform:capitalize;
+  font-size:15px;
+}
+body{
+    z-index: 0;
+}
